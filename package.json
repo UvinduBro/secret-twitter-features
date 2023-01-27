@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A chrome extension to modify feature flags on Twitter.com",
   "main": "lib/background.js",
-  "author": "Yaroslav https://twitter.com/512x512",
+  "author": "Uvindu https://twitter.com/UvinduBro",
   "license": "MIT",
   "scripts": {
     "build": "yarn clean && webpack",
